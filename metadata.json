@@ -1,0 +1,5 @@
+{
+  "name": "Gestão de Imóveis ONP",
+  "description": "Aplicativo completo de gestão imobiliária com dashboard, cadastro de imóveis, ocupantes e controle de ocupação.",
+  "requestFramePermissions": []
+}
